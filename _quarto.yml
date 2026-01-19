@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "UCSB-Library-OSSSI"
@@ -7,7 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - services.qmd
+      - instruction.qmd
+      - engagement.qmd
 
 format:
   html:

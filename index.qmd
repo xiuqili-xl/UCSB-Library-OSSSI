@@ -1,11 +1,27 @@
 ---
-title: "UCSB-Library-OSSSI"
+title: "UCSB Library OSSSI"
 ---
 
-This is a Quarto website.
+# Project description
+Add a brief description of the project
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The following diagram provide a visual summary of our findings.
 
-```{r}
-1 + 1
-```
+Explore the subtabs for description of different offerings.
+
+
+
+# Project Team 
+
+This project would not be possible without the dedicated from the xxx work of all team members (listed alphabetically)
+
+
+
+# Acknowledgement
+
+The Project Team would like to thank the valuable feedback it has received from our library colleageus, in particular, XYZ.
+
+
+# Citation Info
+To cite this work...
+
