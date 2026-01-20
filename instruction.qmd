@@ -8,7 +8,8 @@ This section highlights education and consultation efforts by the UCSB Library r
 ### Foundational Data Literacy Module
 This project aims to provide lower-division undergraduate students with foundational knowledge and practical data literacy skills. More information to come.
 
-![](https://img.shields.io/badge/status-in_development-purple?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/status-in_development-B58CD2?style=plastic){fig-align="left"} 
+![](https://img.shields.io/badge/provider-T&L-D55E00?style=plastic){fig-align="left"}
 
 
 ### Open science & data management planning
@@ -16,7 +17,8 @@ This topic covers planning for how research data and outputs will be created, do
 
 **Example workshop**: Data management training for specific departments or programs; New faculty training in research data management and open science; Responsible Conduct of Research (RCR) training
 
-![](https://img.shields.io/badge/status-active-blue?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
 
 
 ### Methodological documentation
@@ -24,7 +26,8 @@ This topic focuses on documenting experimental procedures, workflows, and method
 
 **Example workshop**: Reproducible Methods with protocols.io
 
-![](https://img.shields.io/badge/status-active-blue?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/status-in_development-B58CD2?style=plastic){fig-align="left"} 
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
 
 
 ### Research process management
@@ -32,7 +35,9 @@ This topic addresses strategies for organizing and managing the research process
 
 **Example workshop**: Zotero Workshop, Document Your Research Thinking with Obsidian 
 
-![](https://img.shields.io/badge/status-active-blue?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-R&E-009E73?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
 
 
 ### Ethical & responsible data practices
@@ -40,7 +45,9 @@ This topic emphasizes responsible approaches to working with data, including eth
 
 **Example workshop**: Carpentries Workshops; Tidying Messy Spreadsheet with OpenRefine; Handling and Sharing Qualitative Data Responsibly and Effectively
 
-![](https://img.shields.io/badge/status-active-blue?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-DREAM_lab-56B4E9?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
 
 
 ### Programming and data analysis
@@ -48,7 +55,9 @@ This topic covers the use of programming languages and computational tools to an
 
 **Example workshop**: Carpentry workshops on Web Scraping with Python and ML with Python
 
-![](https://img.shields.io/badge/status-active-blue?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-DREAM_lab-56B4E9?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
 
 
 ### Data visualization
@@ -56,7 +65,9 @@ This topic focuses on designing effective visual representations of data to supp
 
 **Example workshop**: Data analysis and visualization workshop
 
-![](https://img.shields.io/badge/status-active-blue?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-DREAM_lab-56B4E9?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
 
 
 ### Reproducible coding
@@ -64,7 +75,9 @@ This topic emphasizes writing code that is transparent, well-documented, and rep
 
 **Example workshop**: Carpentry workshops on R and Python
 
-![](https://img.shields.io/badge/status-active-blue?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-DREAM_lab-56B4E9?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
 
 
 ### Code collaboration & sharing
@@ -72,7 +85,9 @@ This topic addresses collaborative approaches to developing, managing, and shari
 
 **Example workshop**: Carpentries Workshops on Unix Shell and Git/GitHub
 
-![](https://img.shields.io/badge/status-active-blue?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-DREAM_lab-56B4E9?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
 
 
 ### (FAIR) data sharing
@@ -80,7 +95,8 @@ This topic focuses on sharing research data in ways that make it Findable, Acces
 
 **Example workshop**: Open Science/Open Data Roadshow 
 
-![](https://img.shields.io/badge/status-active-blue?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
 
 
 ### Researcher identity
@@ -88,7 +104,8 @@ This topic addresses the management of one’s researcher identity. Instruction 
 
 **Example workshop**: Managing Your Professional Identity Workshop
 
-![](https://img.shields.io/badge/status-active-blue?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-R&E-009E73?style=plastic){fig-align="left"}
 
 
 ### Open access publishing
@@ -96,7 +113,8 @@ This topic covers publishing models, workflows, and tools that support the open 
 
 **Example workshop**: Introduction to Academic Publishing; Introduction to eScholarship; Reproducible Publication with Quarto/RStudio, Quarto Showcase workshop 
 
-![](https://img.shields.io/badge/status-active-blue?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-CSD-E69F00?style=plastic){fig-align="left"}
 
 
 ### Copyright & licensing
@@ -104,5 +122,8 @@ This topic focuses on understanding copyright, licensing, and reuse rights relat
 
 **Example workshop**: Copyright workshop
 
-![](https://img.shields.io/badge/status-active-blue?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-R&E-009E73?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+
 
