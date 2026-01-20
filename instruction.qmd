@@ -123,7 +123,10 @@ This topic focuses on understanding copyright, licensing, and reuse rights relat
 **Example workshop**: Copyright workshop
 
 ![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-CSD-E69F00?style=plastic){fig-align="left"}
 ![](https://img.shields.io/badge/provider-R&E-009E73?style=plastic){fig-align="left"}
 ![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-Open_Course_Material-CC79A7?style=plastic){fig-align="left"}
+
 
 

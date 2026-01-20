@@ -18,7 +18,7 @@ As part of the inventory process, **a mapping of relationships** among offerings
 
 Interact with the visual below by hovering over individual elements. Additional details about specific activities can be explored through the other tabs on this site. 
 
-![Chord diagram showing connections between open science activities at UCSB Library](images/chord-diagram-1124.gif)
+![Chord diagram showing connections between open science activities at UCSB Library](images/chord-diagram-20260119.gif)
 
 
 ## Key Takeaways
