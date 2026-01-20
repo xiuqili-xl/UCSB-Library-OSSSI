@@ -4,8 +4,6 @@ title: "Engagement & Community"
 
 This section highlights library-led activities that engage researchers and foster community around open science, data, and scholarly practice. These efforts create spaces for learning, collaboration, recognition, and shared exploration. Activities range from recurring communities of practice and informal meetups to cross-campus events and recognition programs, supporting connection and dialogue across disciplines and career stages.
 
-<br/>
-
 
 ### Carpentries Community
 [Carpentry @ UCSB](https://carpentry.library.ucsb.edu/community/instructors) is a teaching and learning community dedicated to building foundational scientific computing and data skills. Beyond workshops, the community fosters peer learning, professional development, and collaboration among researchers, instructors, and learners across campus.

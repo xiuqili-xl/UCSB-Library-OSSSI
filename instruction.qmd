@@ -4,8 +4,6 @@ title: "Instruction & Consultation"
 
 This section highlights education and consultation efforts by the UCSB Library related to open science. These efforts take many forms, including hands-on workshops, course-integrated instruction, guest lectures, and individual or group consultations. Rather than listing individual sessions, we organized our inventory around open science topics addressed through instruction and consultation. Thus, a single session may engage multiple topics, and each topic may be addressed across many different instructional contexts.
 
-<br/>
-
 
 ### Foundational Data Literacy Module
 This project aims to provide lower-division undergraduate students with foundational knowledge and practical data literacy skills. More information to come.

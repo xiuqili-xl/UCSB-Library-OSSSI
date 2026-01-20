@@ -20,7 +20,6 @@ Interact with the visual below by hovering over individual elements. Additional 
 
 ![Chord diagram showing connections between open science activities at UCSB Library](images/chord-diagram-1124.gif)
 
-</br>
 
 ## Key Takeaways
 
@@ -28,7 +27,6 @@ Interact with the visual below by hovering over individual elements. Additional 
 * Many offerings are interconnected through shared contributors, tools, or topical focus areas.
 * Viewing these activities as a network, rather than as a list, reveals opportunities for coordination, alignment, and internal awareness.
 
-</br>
 
 ## Project Team 
 
@@ -39,18 +37,19 @@ This project would not have been possible without the dedicated contribution of 
 * Julien Brun
 * Seth Erickson
 * Jon Jablonski
+* Greg Janée
 * Kristen LaBonte
 * Xiuqi “Jade” Li (Project Manager)
 
-</br>
 
 ## Acknowledgement
 
 The project team would like to thank colleagues who provided valuable feedback and suggestions during the development of this project, in particular Angela Chikowero, Renata Curty, Tina Lin, Chizu Morihara, and Cathy Williams. 
 
-</br>
 
 ## Citation and Contact
+
+[COPYRIGHT AND LICENSE]
 
 Please cite this project as: [CITATION]
 

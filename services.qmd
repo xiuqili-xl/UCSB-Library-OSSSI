@@ -4,8 +4,6 @@ title: "Services & Programs"
 
 This section includes services offered, tools provided, and programs run by the UCSB Library that directly enable open science practices. Some offerings are hosted and operated by the Library, while others are subscription-based or externally developed platforms made available to the campus community. Excluded from this section are tools supported solely through instruction or consultation (e.g., open-source programming languages).
 
-<br/>
-
 
 ### Carpentries program
 UCSB Library is a member of The Carpentries, an international organization that teaches foundational coding and data science skills to researchers. The [UCSB Carpentries Program](https://carpentry.library.ucsb.edu/) offers hands-on workshops, supports instructor training and certification, and fosters a local learning community. 
