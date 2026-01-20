@@ -11,12 +11,13 @@ website:
       - services.qmd
       - instruction.qmd
       - engagement.qmd
+    background: primary
+    foreground: light       # for contrast
 
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
     toc: true
-
-
-
+    toc-location: left
+    toc-expand: true
