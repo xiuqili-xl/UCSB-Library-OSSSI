@@ -1,8 +1,9 @@
 ---
-title: "UCSB Library Open Science Services and Support Inventory (OSSSI)"
+title: "UCSB Library Open Science Services & Support Inventory Project"
+toc: false
 ---
 
-</br>
+<br/>
 
 ## Project description
 
@@ -19,7 +20,6 @@ As part of the inventory process, **a mapping of relationships** among offerings
 Interact with the visual below by hovering over individual elements. Additional details about specific activities can be explored through the other tabs on this site. 
 
 ![Chord diagram showing connections between open science activities at UCSB Library](images/chord-diagram-20260119.gif)
-
 
 ## Key Takeaways
 
@@ -50,6 +50,11 @@ The project team would like to thank colleagues who provided valuable feedback a
 ## Citation and Contact
 
 [COPYRIGHT AND LICENSE]
+
+:::{.callout-note}
+Please cite this work as:
+Xiuqi Li, A. (2025). Title of Report.
+:::
 
 Please cite this project as: [CITATION]
 

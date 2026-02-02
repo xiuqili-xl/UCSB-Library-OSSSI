@@ -2,37 +2,37 @@
   {
     "objectID": "index.html#project-description",
     "href": "index.html#project-description",
-    "title": "UCSB Library Open Science Services and Support Inventory (OSSSI)",
+    "title": "UCSB Library Open Science Services & Support Inventory Project",
     "section": "Project description",
     "text": "Project description\nBetween April and December 2025, the UCSB Library conducted an internal review of our current programs, services, training, tools, and resources supporting open science. This project aimed to (1) develop a comprehensive inventory of existing offerings and (2) identify strategic opportunities for growth. This webpage provides a high-level overview of our findings.\nOur inventory captured 40+ distinct offerings, including\n\nServices & Programs\nInstruction & Consultation\nEngagement & Community\n\nAs part of the inventory process, a mapping of relationships among offerings, providers, and open science topical domains organically emerged. Rather than existing in isolation, these activities form a highly interconnected network of support across the library.\nInteract with the visual below by hovering over individual elements. Additional details about specific activities can be explored through the other tabs on this site.\n\n\n\nChord diagram showing connections between open science activities at UCSB Library"
   },
   {
     "objectID": "index.html#key-takeaways",
     "href": "index.html#key-takeaways",
-    "title": "UCSB Library Open Science Services and Support Inventory (OSSSI)",
+    "title": "UCSB Library Open Science Services & Support Inventory Project",
     "section": "Key Takeaways",
     "text": "Key Takeaways\n\nOpen science support at UCSB Library spans a wide range of services, instructional activities, and community engagement efforts.\nMany offerings are interconnected through shared contributors, tools, or topical focus areas.\nViewing these activities as a network, rather than as a list, reveals opportunities for coordination, alignment, and internal awareness."
   },
   {
     "objectID": "index.html#project-team",
     "href": "index.html#project-team",
-    "title": "UCSB Library Open Science Services and Support Inventory (OSSSI)",
+    "title": "UCSB Library Open Science Services & Support Inventory Project",
     "section": "Project Team",
     "text": "Project Team\nThis project would not have been possible without the dedicated contribution of the following team members (listed alphabetically by last name)\n\nAkshay Agrawal\nAmber Budden (Project Sponsor)\nJulien Brun\nSeth Erickson\nJon Jablonski\nGreg Janée\nKristen LaBonte\nXiuqi “Jade” Li (Project Manager)"
   },
   {
     "objectID": "index.html#acknowledgement",
     "href": "index.html#acknowledgement",
-    "title": "UCSB Library Open Science Services and Support Inventory (OSSSI)",
+    "title": "UCSB Library Open Science Services & Support Inventory Project",
     "section": "Acknowledgement",
     "text": "Acknowledgement\nThe project team would like to thank colleagues who provided valuable feedback and suggestions during the development of this project, in particular Angela Chikowero, Renata Curty, Tina Lin, Shima Moradi, Chizu Morihara, Virginia Scarlett, and Cathy Williams."
   },
   {
     "objectID": "index.html#citation-and-contact",
     "href": "index.html#citation-and-contact",
-    "title": "UCSB Library Open Science Services and Support Inventory (OSSSI)",
+    "title": "UCSB Library Open Science Services & Support Inventory Project",
     "section": "Citation and Contact",
-    "text": "Citation and Contact\n[COPYRIGHT AND LICENSE]\nPlease cite this project as: [CITATION]\nFor questions related to this inventory project, please email [ADDRESS].\n** This inventory reflects open science programs, services, and activities at UCSB Librrary as of December 2025."
+    "text": "Citation and Contact\n[COPYRIGHT AND LICENSE]\n\n\n\n\n\n\nNote\n\n\n\nPlease cite this work as: Xiuqi Li, A. (2025). Title of Report.\n\n\nPlease cite this project as: [CITATION]\nFor questions related to this inventory project, please email [ADDRESS].\n** This inventory reflects open science programs, services, and activities at UCSB Librrary as of December 2025."
   },
   {
     "objectID": "instruction.html",
@@ -54,5 +54,12 @@
     "title": "Engagement & Community",
     "section": "",
     "text": "This section highlights library-led activities that engage researchers and foster community around open science, data, and scholarly practice. These efforts create spaces for learning, collaboration, recognition, and shared exploration. Activities range from recurring communities of practice and informal meetups to cross-campus events and recognition programs, supporting connection and dialogue across disciplines and career stages.\n\nCarpentries Community\nCarpentry @ UCSB is a teaching and learning community dedicated to building foundational scientific computing and data skills. Beyond workshops, the community fosters peer learning, professional development, and collaboration among researchers, instructors, and learners across campus.\n  \n\n\nData to Discovery\nData to Discovery is a biweekly virtual series that highlights practical skills for working with data and engaging in open scholarship. Each session offers a brief introduction to tools, resources, and recommended practices and creates space for discussion, questions, and peer exchange. See materials from 2025 Fall on Zenodo.\n \n\n\nDepartment & Program Orientation\nLibrary staff participate in departmental and program-level orientations to introduce new graduate students to library services, research support, and open science resources. These sessions help integrate library support into student research workflows early in their academic careers.\n \n\n\nDouglass Day\nDouglass Day is an international day of action celebrating the life and legacy of Frederick Douglass through collective transcription of openly available historical documents. Local events at UCSB will involve transcribing materials from the Library’s Special Research Collections, connecting participants with primary sources and community-driven scholarship.\n  \n\n\nLibrary Award for Undergraduate Research (LAUR)\nThe UCSB Library Award for Undergraduate Research (LAUR) celebrates undergraduate students who have produced a creative or scholarly work demonstrating sophisticated use of Library resources. Award recipients are invited to publish their projects in eScholarship, the University of California’s open access repository.\n \n\n\nLibrary Open Science Award\nCurrently in development, the Library Open Science Award aims to recognize and encourage a culture of reproducible and open research practices at UCSB. The award will honor graduate students or research labs that demonstrate exemplary commitment to open science through their research practices or advocacy efforts.\n \n\n\nOpen Access Week\nOpen Access Week is an international event promoting awareness and discussion of open access to scholarly research. Local programming at UCSB includes events and activities that highlight open publishing and related library resources.\n \n\n\nOpen Source Meetup\nOpen Source Meetups are informal gatherings organized by the Open Source Program Office (OSPO) Network. These include lunch-and-learn sessions focused on specific open-source topics and co-working sessions that provide dedicated time and space to work on open-source projects and goals.\n \n\n\nResearch Data Community\nResearch Data Community is a community of practice composed of data experts, faculty, and academic staff from across campus. It is dedicated to advancing open science, research reproducibility, and data science instruction by strengthening cross-departmental collaborations and building partnerships among computational and data-focused units.\n \n\n\nUC Love Data Week\nUC Love Data Week is a week-long series of presentations, workshops, and events focused on research data management, sharing, and preservation. Open to all members of the UC community, it connects researchers and data experts across campuses to share expertise and resources."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "UCSB Library Open Science Inventory Services & Support Project",
+    "section": "",
+    "text": "Chord diagram showing connections between open science activities at UCSB Library"
   }
 ]
