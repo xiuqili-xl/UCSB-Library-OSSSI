@@ -6,11 +6,17 @@ website:
   title: "UCSB Library Open Science Inventory"
   navbar:
     left:
-      - href: index.qmd
+      - href: quarto-pages/index.qmd
         text: Home
-      - services.qmd
-      - instruction.qmd
-      - engagement.qmd
+      - href: quarto-pages/services.qmd
+        text: Services & Programs
+      - href: quarto-pages/instruction.qmd
+        text: Instruction & Consultation
+      - href: quarto-pages/engagement.qmd
+        text: Engagement & Community
+#     right:
+#      - icon: github
+#        href: https://github.com/xiuqili-xl/UCSB-Library-OSSSI
     background: primary
     foreground: light       # for contrast
 
@@ -22,6 +28,3 @@ format:
     toc: true
     toc-location: right
     toc-expand: true
-
-copyright: "Copyright 2026, UCSB Library"
-license: "Licensed under CC BY-NC 4.0"

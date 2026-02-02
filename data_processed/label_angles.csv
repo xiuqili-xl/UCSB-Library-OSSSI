@@ -1,0 +1,56 @@
+Category,Item,Viz.ID,Start.Degree,End.Degree
+OS Domains,Open data,1,180.0929,185.33
+OS Domains,Open methodology,2,174.8557,180.0929
+OS Domains,Open source,3,169.6186,174.8557
+OS Domains,Open access,4,164.3814,169.6186
+OS Domains,Open peer review,5,159.1443,164.3814
+OS Domains,Open educational resource,6,153.9071,159.1443
+OS Domains,Open infastructure,7,148.67,153.9071
+Provider,CSD,8,129.9111,135.1482
+Provider,DREAM Lab,9,124.6739,129.9111
+Provider,R&E,10,119.4368,124.6739
+Provider,RDS,11,114.1996,119.4368
+Provider,SRC,12,108.9625,114.1996
+Provider,T&L,13,103.7253,108.9625
+Provider,Open Course Materials Program,14,98.4881,103.7253
+Services & Programs,Carpentries program,15,79.4915,84.8419
+Services & Programs,Coder workspace,16,74.1411,79.4915
+Services & Programs,Data Literacy Series,17,68.7907,74.1411
+Services & Programs,Data rescue,18,63.4403,68.7907
+Services & Programs,Dataverse,19,58.09,63.4403
+Services & Programs,DMPTool,20,52.7396,58.09
+Services & Programs,Dryad,21,47.3892,52.7396
+Services & Programs,eScholarship,22,42.0388,47.3892
+Services & Programs,EZID,23,36.6884,42.0388
+Services & Programs,"LibGuides, OS-themed",24,31.3381,36.6884
+Services & Programs,Open access fund,25,25.9877,31.3381
+Services & Programs,ORCiD,26,20.6373,25.9877
+Services & Programs,Open Source Program,27,15.2869,20.6373
+Services & Programs,Protocols.io,28,9.9366,15.2869
+Services & Programs,RCD website,29,4.5862,9.9366
+Services & Programs,Reproducible and Collaborative Lab,30,-0.7642,4.5862
+Services & Programs,Transformative Agreements,31,-6.1146,-0.7642
+Instruction & Consultation,Foundational Data Literacy Module,32,262.8218,268.1447
+Instruction & Consultation,Open science & data management planning,33,257.4988,262.8218
+Instruction & Consultation,Methodological documentation,34,252.1758,257.4988
+Instruction & Consultation,Research process management,35,246.8529,252.1758
+Instruction & Consultation,Ethical & responsible data practices,36,241.5299,246.8529
+Instruction & Consultation,Programming and data analysis,37,236.2069,241.5299
+Instruction & Consultation,Data visualization,38,230.884,236.2069
+Instruction & Consultation,Reproducible coding,39,225.561,230.884
+Instruction & Consultation,Code collaboration & sharing,40,220.238,225.561
+Instruction & Consultation,(FAIR) data sharing,41,214.9151,220.238
+Instruction & Consultation,Researcher identity,42,209.5921,214.9151
+Instruction & Consultation,Open access publishing,43,204.2691,209.5921
+Instruction & Consultation,Copyright & licensing,44,198.9462,204.2691
+Engagement,Carpentries Community,45,334.8636,340.1667
+Engagement,Data to Discovery,46,329.5606,334.8636
+Engagement,Department & Program Orientation,47,324.2576,329.5606
+Engagement,Douglass Day,48,318.9545,324.2576
+Engagement,Library Award for Undergraduate Research,49,313.6515,318.9545
+Engagement,Library Open Science Award,50,308.3485,313.6515
+Engagement,Open Access Week,51,303.0455,308.3485
+Engagement,Open Education Week,52,297.7424,303.0455
+Engagement,Open Source Meetup,53,292.4394,297.7424
+Engagement,Research Data Community,54,287.1364,292.4394
+Engagement,UC Love Data Week,55,281.8333,287.1364

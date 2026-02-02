@@ -1,0 +1,79 @@
+---
+title: "Engagement & Community"
+---
+
+This section highlights library-led activities that engage researchers and foster community around open science, data, and scholarly practice. These efforts create spaces for learning, collaboration, recognition, and shared exploration. Activities range from recurring communities of practice and informal meetups to cross-campus events and recognition programs, supporting connection and dialogue across disciplines and career stages.
+
+
+### Carpentries Community
+[Carpentry @ UCSB](https://carpentry.library.ucsb.edu/community/instructors) is a teaching and learning community dedicated to building foundational scientific computing and data skills. Beyond workshops, the community fosters peer learning, professional development, and collaboration among researchers, instructors, and learners across campus.
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-DREAM_lab-56B4E9?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+
+
+### Data to Discovery
+Data to Discovery is a biweekly virtual series that highlights practical skills for working with data and engaging in open scholarship. Each session offers a brief introduction to tools, resources, and recommended practices and creates space for discussion, questions, and peer exchange. See [materials from 2025 Fall](https://doi.org/10.5281/zenodo.17883180) on Zenodo.
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+
+
+### Department & Program Orientation
+Library staff participate in departmental and program-level orientations to introduce new graduate students to library services, research support, and open science resources. These sessions help integrate library support into student research workflows early in their academic careers.
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-R&E-009E73?style=plastic){fig-align="left"}
+
+
+### Douglass Day
+[Douglass Day](https://douglassday.org/) is an international day of action celebrating the life and legacy of Frederick Douglass through collective transcription of openly available historical documents. Local events at UCSB will involve transcribing materials from the Library’s Special Research Collections, connecting participants with primary sources and community-driven scholarship.
+
+![](https://img.shields.io/badge/status-in_development-B58CD2?style=plastic){fig-align="left"} 
+![](https://img.shields.io/badge/provider-R&E-009E73?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-CSD-E69F00?style=plastic){fig-align="left"}
+
+
+### Library Award for Undergraduate Research (LAUR)
+The UCSB [Library Award for Undergraduate Research (LAUR)](https://www.library.ucsb.edu/library-award-undergraduate-research) celebrates undergraduate students who have produced a creative or scholarly work demonstrating sophisticated use of Library resources. Award recipients are invited to publish their projects in eScholarship, the University of California’s open access repository.
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-R&E-009E73?style=plastic){fig-align="left"}
+
+
+### Library Open Science Award 
+Currently in development, the Library Open Science Award aims to recognize and encourage a culture of reproducible and open research practices at UCSB. The award will honor graduate students or research labs that demonstrate exemplary commitment to open science through their research practices or advocacy efforts.
+
+![](https://img.shields.io/badge/status-in_development-B58CD2?style=plastic){fig-align="left"} 
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+
+
+### Open Access Week
+[Open Access Week](https://www.openaccessweek.org/) is an international event promoting awareness and discussion of open access to scholarly research. Local programming at UCSB includes events and activities that highlight open publishing and related library resources.
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-CSD-E69F00?style=plastic){fig-align="left"}
+
+
+### Open Source Meetup
+Open Source Meetups are informal gatherings organized by the Open Source Program Office (OSPO) Network. These include lunch-and-learn sessions focused on specific open-source topics and co-working sessions that provide dedicated time and space to work on open-source projects and goals.
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+
+
+### Research Data Community
+[Research Data Community](https://rcd.ucsb.edu/rdc) is a community of practice composed of data experts, faculty, and academic staff from across campus. It is dedicated to advancing open science, research reproducibility, and data science instruction by strengthening cross-departmental collaborations and building partnerships among computational and data-focused units.
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+
+
+### UC Love Data Week
+[UC Love Data](https://uc-love-data-week.github.io/) Week is a week-long series of presentations, workshops, and events focused on research data management, sharing, and preservation. Open to all members of the UC community, it connects researchers and data experts across campuses to share expertise and resources.
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+
+
