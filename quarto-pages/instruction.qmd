@@ -1,0 +1,132 @@
+---
+title: "Instruction & Consultation"
+---
+
+This section highlights education and consultation efforts by the UCSB Library related to open science. These efforts take many forms, including hands-on workshops, course-integrated instruction, guest lectures, and individual or group consultations. Rather than listing individual sessions, we organized our inventory around open science topics addressed through instruction and consultation. Thus, a single session may engage multiple topics, and each topic may be addressed across many different instructional contexts.
+
+
+### Foundational Data Literacy Module
+This project aims to provide lower-division undergraduate students with foundational knowledge and practical data literacy skills. More information to come.
+
+![](https://img.shields.io/badge/status-in_development-B58CD2?style=plastic){fig-align="left"} 
+![](https://img.shields.io/badge/provider-T&L-D55E00?style=plastic){fig-align="left"}
+
+
+### Open science & data management planning
+This topic covers planning for how research data and outputs will be created, documented, shared, and preserved throughout the research lifecycle. Instruction emphasizes aligning open science practices with funder requirements, disciplinary norms, and project goals.
+
+**Example workshop**: Data management training for specific departments or programs; New faculty training in research data management and open science; Responsible Conduct of Research (RCR) training
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+
+
+### Methodological documentation
+This topic focuses on documenting experimental procedures, workflows, and methods in ways that support transparency and reproducibility. Instruction highlights tools and practices for creating clear, detailed, and reusable methodological records.
+
+**Example workshop**: Reproducible Methods with protocols.io
+
+![](https://img.shields.io/badge/status-in_development-B58CD2?style=plastic){fig-align="left"} 
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+
+
+### Research process management
+This topic addresses strategies for organizing and managing the research process, including literature, notes, decisions, and intermediate outputs. Instruction supports workflows that improve efficiency, traceability, and long-term project coherence.
+
+**Example workshop**: Zotero Workshop, Document Your Research Thinking with Obsidian 
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-R&E-009E73?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+
+
+### Ethical & responsible data practices
+This topic emphasizes responsible approaches to working with data, including ethical considerations, data quality, and appropriate handling of sensitive information. Instruction often addresses practical challenges encountered when cleaning, organizing, and sharing data.
+
+**Example workshop**: Carpentries Workshops; Tidying Messy Spreadsheet with OpenRefine; Handling and Sharing Qualitative Data Responsibly and Effectively
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-DREAM_lab-56B4E9?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+
+
+### Programming and data analysis
+This topic covers the use of programming languages and computational tools to analyze, transform, and interpret data. Instruction focuses on building foundational skills for conducting reproducible, code-based analyses.
+
+**Example workshop**: Carpentry workshops on Web Scraping with Python and ML with Python
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-DREAM_lab-56B4E9?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+
+
+### Data visualization
+This topic focuses on designing effective visual representations of data to support accurate interpretation and communication. Instruction addresses both technical tools and principles of visual design.
+
+**Example workshop**: Data analysis and visualization workshop
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-DREAM_lab-56B4E9?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+
+
+### Reproducible coding
+This topic emphasizes writing code that is transparent, well-documented, and reproducible. Instruction supports practices that make analyses easier to understand, reuse, and verify by others.
+
+**Example workshop**: Carpentry workshops on R and Python
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-DREAM_lab-56B4E9?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+
+
+### Code collaboration & sharing
+This topic addresses collaborative approaches to developing, managing, and sharing code. Instruction focuses on version control, collaboration workflows, and sharing code in ways that support reuse.
+
+**Example workshop**: Carpentries Workshops on Unix Shell and Git/GitHub
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-DREAM_lab-56B4E9?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+
+
+### (FAIR) data sharing
+This topic focuses on sharing research data in ways that make it Findable, Accessible, Interoperable, and Reusable (FAIR). Instruction often covers repository selection, metadata, and documentation practices.
+
+**Example workshop**: Open Science/Open Data Roadshow 
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+
+
+### Researcher identity
+This topic addresses the management of one’s researcher identity. Instruction emphasizes improving attribution, discoverability, and integration of scholarly outputs.
+
+**Example workshop**: Managing Your Professional Identity Workshop
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-R&E-009E73?style=plastic){fig-align="left"}
+
+
+### Open access publishing
+This topic covers publishing models, workflows, and tools that support the open dissemination of research outputs. Instruction addresses both conceptual aspects of open access and practical publishing options.
+
+**Example workshop**: Introduction to Academic Publishing; Introduction to eScholarship; Reproducible Publication with Quarto/RStudio, Quarto Showcase workshop 
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-CSD-E69F00?style=plastic){fig-align="left"}
+
+
+### Copyright & licensing
+This topic focuses on understanding copyright, licensing, and reuse rights related to scholarly works and research outputs. Instruction supports informed decision-making around sharing, reuse, and permissions.
+
+**Example workshop**: Copyright workshop
+
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-CSD-E69F00?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-R&E-009E73?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-RDS-F0E442?style=plastic){fig-align="left"}
+![](https://img.shields.io/badge/provider-Open_Course_Material-CC79A7?style=plastic){fig-align="left"}
+
+
+

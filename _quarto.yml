@@ -6,7 +6,7 @@ website:
   title: "UCSB Library Open Science Inventory"
   navbar:
     left:
-      - href: quarto-pages/index.qmd
+      - href: index.qmd
         text: Home
       - href: quarto-pages/services.qmd
         text: Services & Programs
