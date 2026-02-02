@@ -1,8 +1,21 @@
-.Rproj.user
+# History files
 .Rhistory
-.RData
-.httr-oauth
-.DS_Store
-.quarto
 
+# Session data files
+.RData
+
+# R Studio files
+.Rproj.user
+
+# OAuth2 token
+.httr-oauth
+
+# macOS file
+.DS_Store
+
+# Quarto
+.quarto
 /.quarto/
+
+# Ignore static png
+static-png/*.png
