@@ -2,7 +2,7 @@
 title: "UCSB Library Open Science Services & Support Inventory Project"
 toc: false
 citation: false
-copyright: "Copyright 2026, UCSB Library"
+copyright: "Copyright © 2026 by the authors"
 license: "Licensed under CC BY-NC 4.0"
 ---
 
@@ -12,6 +12,13 @@ license: "Licensed under CC BY-NC 4.0"
 
 Between April and December 2025, the UCSB Library conducted an internal review of our current programs, services, training, tools, and resources supporting **open science**. This project aimed to (1) develop a comprehensive inventory of existing offerings and (2) identify strategic opportunities for growth. This webpage provides a high-level overview of our findings.
 
+![Chord diagram showing connections between open science activities at UCSB Library](images/chord-diagram.gif)
+
+<br/>
+
+
+## Findings
+
 Our inventory captured 40+ distinct offerings, including
 
 * [Services & Programs](services.qmd)
@@ -20,16 +27,15 @@ Our inventory captured 40+ distinct offerings, including
 
 As part of the inventory process, **a mapping of relationships** among offerings, providers, and open science topical domains organically emerged. Rather than existing in isolation, these activities form a highly **interconnected network** of support across the library.
 
-Interact with the visual below by hovering over individual elements. Additional details about specific activities can be explored through the other tabs on this site. 
+Interact with the visual above by hovering over individual elements. Additional details about specific activities can be explored through the other tabs on this site. 
 
-![Chord diagram showing connections between open science activities at UCSB Library](images/chord-diagram.gif)
-
-## Key Takeaways
+### Key Takeaways
 
 * Open science support at UCSB Library spans a wide range of services, instructional activities, and community engagement efforts.
 * Many offerings are interconnected through shared contributors, tools, or topical focus areas.
 * Viewing these activities as a network, rather than as a list, reveals opportunities for coordination, alignment, and internal awareness.
 
+<br/>
 
 ## Project Team 
 
@@ -44,11 +50,13 @@ This project would not have been possible without the dedicated contribution of 
 * Kristen LaBonte
 * Xiuqi “Jade” Li (Project Manager)
 
+<br/>
 
 ## Acknowledgement
 
 The project team would like to thank colleagues who provided valuable feedback and suggestions during the development of this project, in particular Angela Chikowero, Renata Curty, Tina Lin, Shima Moradi, Chizu Morihara, Virginia Scarlett, and Cathy Williams. 
 
+<br/>
 
 ## Citation and Contact
 
