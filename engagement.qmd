@@ -61,6 +61,7 @@ Currently in development, the Library Open Science Award aims to recognize and e
 ### Open Education Week
 [Open Education Week](https://oeweek.oeglobal.org/) is an annual global event that highlights practices and resources that support open and equitable education. Local programming includes recognizing UCSB educators engaged in open education and hosting events that promote the creation, adoption, and use of open educational and training materials.
 
+![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
 ![](https://img.shields.io/badge/provider-Open_Course_Materials-09847A?style=plastic){fig-align="left"}
 
 
