@@ -84,5 +84,3 @@ Open Source Meetups are informal gatherings organized by the Open Source Program
 
 ![](https://img.shields.io/badge/status-active-64B5F6?style=plastic){fig-align="left"}
 ![](https://img.shields.io/badge/provider-RDS-09847A?style=plastic){fig-align="left"}
-
-
