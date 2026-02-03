@@ -8,11 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: quarto-pages/services.qmd
+      - href: services.qmd
         text: Services & Programs
-      - href: quarto-pages/instruction.qmd
+      - href: instruction.qmd
         text: Instruction & Consultation
-      - href: quarto-pages/engagement.qmd
+      - href: engagement.qmd
         text: Engagement & Community
 #     right:
 #      - icon: github

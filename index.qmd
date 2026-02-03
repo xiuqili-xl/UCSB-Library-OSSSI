@@ -14,9 +14,9 @@ Between April and December 2025, the UCSB Library conducted an internal review o
 
 Our inventory captured 40+ distinct offerings, including
 
-* [Services & Programs](quarto-pages/services.qmd)
-* [Instruction & Consultation](quarto-pages/instruction.qmd)
-* [Engagement & Community](quarto-pages/engagement.qmd)
+* [Services & Programs](services.qmd)
+* [Instruction & Consultation](instruction.qmd)
+* [Engagement & Community](engagement.qmd)
 
 As part of the inventory process, **a mapping of relationships** among offerings, providers, and open science topical domains organically emerged. Rather than existing in isolation, these activities form a highly **interconnected network** of support across the library.
 
