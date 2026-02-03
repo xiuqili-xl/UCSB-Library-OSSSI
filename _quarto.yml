@@ -14,9 +14,9 @@ website:
         text: Instruction & Consultation
       - href: engagement.qmd
         text: Engagement & Community
-#     right:
-#      - icon: github
-#        href: https://github.com/xiuqili-xl/UCSB-Library-OSSSI
+    right:
+      - icon: github
+        href: https://github.com/xiuqili-xl/UCSB-Library-OSSSI
     background: primary
     foreground: light       # for contrast
 
