@@ -224,7 +224,7 @@ chord_diagram(highlight_id = 45)
 chord_diagram()
 legend(
   x = "topright",
-  inset = c(0.12, 0.1),
+  inset = c(0.21, 0.1),
   legend = c("Active", "In development", "On hold"),
   col = status_palette,
   pch = 16,
@@ -251,7 +251,7 @@ for(id in 1:nrow(list_coded)){
   # add legend
   legend(
     x = "topright",
-    inset = c(0.12, 0.1),
+    inset = c(0.21, 0.1),
     legend = c("Active", "In development", "On hold"),
     col = status_palette,
     pch = 16,
