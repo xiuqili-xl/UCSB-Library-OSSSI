@@ -12,7 +12,25 @@ license: "Licensed under CC BY-NC 4.0"
 
 Between April and December 2025, the UCSB Library conducted an internal review of our current programs, services, training, tools, and resources supporting **open science**. This project aimed to (1) develop a comprehensive inventory of existing offerings and (2) identify strategic opportunities for growth. This webpage provides a high-level overview of our findings.
 
-![Chord diagram showing connections between open science activities at UCSB Library](images/chord-diagram.gif)
+<div id="diagram"></div>
+
+<script>
+  const IMAGE_WIDTH = 1000; // pixels
+
+  function add_diagram (event) {
+    const img = document.createElement("img");
+    img.src = "images/static-png/00-no-highlight.png";
+    img.width = IMAGE_WIDTH;
+    img.addEventListener("click", (event) => {
+      img.src = "images/static-png/01.png";
+    });
+    document.getElementById("diagram").appendChild(img);
+  }
+
+  window.addEventListener("load", add_diagram)
+</script>
+
+Chord diagram showing connections between open science activities at UCSB Library
 
 <br/>
 

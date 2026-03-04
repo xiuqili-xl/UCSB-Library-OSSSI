@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "images/static-png/*.png"
 
 website:
   title: "UCSB Library Open Science Inventory"
