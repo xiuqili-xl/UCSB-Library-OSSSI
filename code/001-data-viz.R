@@ -265,15 +265,8 @@ for(id in 1:nrow(list_coded)){
   )
   
   # export
-  if(id < 10) {
-    dev.copy(png, paste0("images/static-png/0", id, "-", 
-                         str_sub(list_coded$Item[id], start = 1, end = 20), ".png"), 
-             width = 5, height = 5, units = "in", res = 600)
-  } else {
-    dev.copy(png, paste0("images/static-png/", id, "-", 
-                         str_sub(list_coded$Item[id], start = 1, end = 20), ".png"), 
-             width = 5, height = 5, units = "in", res = 600)
-  }
+  dev.copy(png, paste0("images/static-png/", sprintf("%02d", id), ".png"),
+           width = 5, height = 5, units = "in", res = 600)
   
   dev.off()
 }
