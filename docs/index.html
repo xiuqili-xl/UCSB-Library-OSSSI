@@ -156,20 +156,67 @@ ul.task-list li input[type="checkbox"] {
 <div id="diagram">
 
 </div>
-<script>
-  const IMAGE_WIDTH = 1000; // pixels
+<script type="module">
 
-  function add_diagram (event) {
-    const img = document.createElement("img");
-    img.src = "images/static-png/00-no-highlight.png";
-    img.width = IMAGE_WIDTH;
-    img.addEventListener("click", (event) => {
-      img.src = "images/static-png/01.png";
+  const IMAGE_DISPLAY_WIDTH = 1000; // pixels
+  const IMAGE_PATH = "/images/static-png";
+  const UNHIGHLIGHTED_IMAGE_PATH = `${IMAGE_PATH}/00-no-highlight.png`;
+  const CSV_PATH = "data_processed/label_angles.csv";
+
+  // Assumption: commas don't appear in label names, so no need for full CSV
+  // parser.
+
+  async function load_csv() {
+    const response = await fetch(CSV_PATH);
+    const body = await response.text();
+    const [header, ...rows] = body.trim().split("\n");
+    const columns = header.split(",");
+    const data = rows.map(
+      row => Object.fromEntries(row.split(",").map((v, i) => [columns[i], v]))
+    );
+    data.forEach(item => {
+      item["Viz.ID"] = parseInt(item["Viz.ID"]);
+      item["Start.Degree"] = parseFloat(item["Start.Degree"]);
+      item["End.Degree"] = parseFloat(item["End.Degree"]);
     });
-    document.getElementById("diagram").appendChild(img);
+    return data;
   }
 
-  window.addEventListener("load", add_diagram)
+  const data = await load_csv();
+  const min_angle = Math.min(...data.map(item => item["Start.Degree"]));
+
+  const img = document.createElement("img");
+  img.src = UNHIGHLIGHTED_IMAGE_PATH;
+  img.width = IMAGE_DISPLAY_WIDTH;
+  img.style.cursor = "pointer";
+
+  // Data assumptions:
+  //   - Angles use the same periodic coordinate system as atan2.
+  //   - Angles increase linearly from a minimum value (possibly negative) to a
+  //     maximum value; there's no wrapping at +/-180.
+  //   - The total range of angles is less than or equal to 360.
+  //   - If items A and B are adjacent, then
+  //     A["End.Degree"] == B["Start.Degree"] or vice versa.
+
+  function switch_image(event) {
+    const rect = img.getBoundingClientRect();
+    const x = event.clientX - (rect.left + rect.width/2);
+    const y = (rect.top + rect.height/2) - event.clientY;
+    let angle = Math.atan2(y, x) * 180/Math.PI;
+    if (angle < min_angle) angle += 360;
+    const item = data.find(
+      item => (item["Start.Degree"] <= angle && angle <= item["End.Degree"])
+    );
+    if (item !== undefined) {
+      img.src = `${IMAGE_PATH}/${String(item["Viz.ID"]).padStart(2, "0")}.png`;
+    } else {
+      img.src = UNHIGHLIGHTED_IMAGE_PATH;
+    }
+  }
+
+  img.addEventListener("click", switch_image);
+  document.getElementById("diagram").appendChild(img);
+
 </script>
 <p>Chord diagram showing connections between open science activities at UCSB Library</p>
 <p><br></p>
