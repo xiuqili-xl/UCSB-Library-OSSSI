@@ -88,7 +88,7 @@ pairs_service <- list_service %>%
   filter(Select == TRUE) %>%
   mutate(Item.2 = case_when(Item.2 == "Carpentries" ~ "Carpentries program",
                             Item.2 == "Agreement" ~ "Transformative Agreements",
-                            Item.2 == "LibGuide" ~ "LibGuides, OS-themed",
+                            Item.2 == "LibGuide" ~ "LibGuides (OS-themed)",
                             Item.2 == "RCL" ~ "Reproducible and Collaborative Lab",
                             TRUE ~ Item.2)) %>%
   left_join(inventory %>% select(Category, Item, Viz.ID),
