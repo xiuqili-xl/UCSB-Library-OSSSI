@@ -61,6 +61,7 @@ As part of the inventory process, **a mapping of relationships** among offerings
   img.src = UNHIGHLIGHTED_IMAGE_PATH;
   img.width = IMAGE_DISPLAY_WIDTH;
   img.style.cursor = "pointer";
+  img.alt = "Chord diagram showing connections between open science activities at UCSB Library";
 
   // Data assumptions:
   //   - Angles use the same periodic coordinate system as atan2.
